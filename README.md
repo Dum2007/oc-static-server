@@ -6,7 +6,6 @@
  使用方法
  ```
  #import "StaticServer.h" 
- ```
  [StaticServer startServer:@"8081" optroot:@"game" localOnly:false keepAlive:false]; 
  ```
 

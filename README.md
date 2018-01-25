@@ -8,11 +8,11 @@
  #import "StaticServer.h" 
  [StaticServer startServer:@"8081" optroot:@"game" localOnly:false keepAlive:false]; 
 ```
-```
+
  参数说明: 
 * port:监听端口 
 * optroot:所在本地文件夹 
 * localOnly: 本地使用localhost 
 * keepAlive：进入后台是否激活服务 
 
-```
+

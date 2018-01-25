@@ -13,6 +13,6 @@
 * port:监听端口 
 * optroot:所在本地文件夹 
 * localOnly: 本地使用localhost 
-* keepAlive：进入后台是否激活服务 
+* keepAlive：进入后台是否保持服务激活 
 
 
